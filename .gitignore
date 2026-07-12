@@ -1,0 +1,5 @@
+# Build helpers and local build output
+IconBuilder.exe
+屏幕常亮工具.exe
+bin/
+obj/
